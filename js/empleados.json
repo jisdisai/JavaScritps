@@ -1,0 +1,30 @@
+{
+  "empleado": [
+
+      {
+        "id" : 1,
+        "nombre" : "Isai",
+        "puesto" : "Developers"
+      },
+      {
+        "id" : 2,
+        "nombre" : "Juaco",
+        "puesto" : "Owner"
+      },
+
+      {
+        "id" : 3,
+        "nombre" : "Ezequiel",
+        "puesto" : "Master"
+      },
+
+      {
+        "id" : 4,
+        "nombre" : "Esther",
+        "puesto" : "Markething"
+      }
+
+
+  ]
+
+}
